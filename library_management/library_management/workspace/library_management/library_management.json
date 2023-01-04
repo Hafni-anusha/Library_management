@@ -1,0 +1,50 @@
+{
+ "category": "Modules",
+ "charts": [],
+ "creation": "2023-01-04 14:40:51.077412",
+ "developer_mode_only": 0,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends_another_page": 0,
+ "hide_custom": 0,
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "label": "Library Management",
+ "links": [],
+ "modified": "2023-01-04 14:44:19.336442",
+ "modified_by": "Administrator",
+ "module": "Library management",
+ "name": "Library Management",
+ "owner": "Administrator",
+ "pin_to_bottom": 0,
+ "pin_to_top": 1,
+ "shortcuts": [
+  {
+   "doc_view": "List",
+   "label": "Library Users",
+   "link_to": "Library User",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "Library Membership",
+   "link_to": "Library Membership",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "Rending Request",
+   "link_to": "Rending Request",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "Book List",
+   "link_to": "Book",
+   "type": "DocType"
+  }
+ ],
+ "shortcuts_label": "Library Management"
+}
